@@ -4,16 +4,16 @@ A Java application inspired by Microsoft Paint. Written and developed by a group
 
 GIFS
 ------------
-![Welcome page](gifs/Lines.gif)
+![Lines](gifs/Lines.gif)
 
-![Welcome page](gifs/Shapes.gif)
+![Shapes](gifs/Shapes.gif)
 
-![Welcome page](gifs/LineThickness.gif)
+![Line thickness](gifs/LineThickness.gif)
 
-![Welcome page](gifs/Fill.gif)
+![Filled shape](gifs/Fill.gif)
 
-![Welcome page](gifs/Colours.gif)
+![Simple colour change](gifs/Colours.gif)
 
-![Welcome page](gifs/ColoursComplex.gif)
+![Complex colour change](gifs/ColoursComplex.gif)
 
-![Welcome page](gifs/Clear.gif)
+![Clear canvas](gifs/Clear.gif)
